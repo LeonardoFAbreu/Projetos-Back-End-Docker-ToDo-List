@@ -1,0 +1,1 @@
+docker container stats -a 01container
