@@ -1,6 +1,6 @@
 FROM node:14-alpine AS todobackend
 
-WORKDIR /docker/todo-app
+WORKDIR /todo-app/back-end
 
 ADD node_modules.tar.gz .
 
